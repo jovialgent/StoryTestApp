@@ -1,0 +1,15 @@
+{
+  "name": "StoryWebApp",
+  "version": "0.0.0",
+  "description": "\"Test application that will be used to create a mock story web application to show for my Artrepreneurship Class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jovialgent/StoryTestApp.git"
+  },
+  "author": "jovial_gent",
+  "license": "BSD"
+}
